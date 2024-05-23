@@ -1,4 +1,4 @@
-# Search Insert Position Algorithm(https://leetcode.com/problems/search-insert-position)
+# [Search Insert Position Algorithm](https://leetcode.com/problems/search-insert-position)
 
 ## Description
 
