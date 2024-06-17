@@ -1,7 +1,5 @@
 # [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
 
-This repository contains a solution to the problem of inverting a binary tree. The solution is implemented in Python, with the main functionality located in the `invert_tree.py` file.
-
 ## Problem Statement
 
 Given the root of a binary tree, invert the tree, and return its root.
